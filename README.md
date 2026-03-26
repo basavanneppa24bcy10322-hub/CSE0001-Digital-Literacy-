@@ -1,9 +1,9 @@
-# CSE0001-Digital-Literacy-# 📚 Digital Literacy Project
+# 📚 Digital Literacy Project
 
 ## 👤 Student Details
-- Name: BASAVANNEPPA SHIWALINGAPPA MUGAD
+- Name: Basavanneppa Shiwalingappa Mugad
 - Registration Number: 24BCY10322
-- Branch: BTECH
+- Branch: BTech
 - Course: CSE0001 – Digital Literacy
 
 ---
@@ -52,7 +52,7 @@ Researched cybercrime and created a case study with prevention tips.
 ---
 
 ## 🔗 Google Form Link
-[Paste your form link here]
+https://docs.google.com/forms/d/e/1FAIpQLSc5uSvIT0TJ6K-e7MfJ9TWYxEPvlIeDeq12U3ZJ2ciUfcSvSg/viewform
 
 ---
 
